@@ -2,7 +2,11 @@
 
 사이트: https://selvi.kr
 
-[최신 버전 다운로드](https://github.com/cineraria01/selvi_app/releases/latest)
+[Windows 64비트 다운로드](https://github.com/cineraria01/selvi_app/releases/latest/download/selvi-windows-amd64.zip) · [macOS Apple Silicon 다운로드](https://github.com/cineraria01/selvi_app/releases/latest/download/selvi-darwin-arm64.app.zip)
+
+같은 버튼에서 항상 최신 공개 버전을 받습니다. 설치 후에는 프로그램이 자동으로 업데이트됩니다.
+
+[최신 릴리스와 변경 내용](https://github.com/cineraria01/selvi_app/releases/latest) · [SHA-256 체크섬](https://github.com/cineraria01/selvi_app/releases/latest/download/checksums.txt)
 
 - **macOS (Apple Silicon)**: `selvi-darwin-arm64.app.zip`을 풀고 `selvi.app`을 쓰기 가능한 Applications 폴더로 옮겨 실행합니다. 처음이면 같은 폴더의 `Launch Selvi.command`를 더블클릭해도 됩니다. `v0.1.64` 이전 공개본 ZIP 이름은 `sellpick-darwin-arm64.app.zip`입니다.
 - **Windows (64비트)**: `selvi-windows-amd64.zip`을 풀고 `selvi.exe`를 실행합니다. `v0.1.64` 이전 공개본 ZIP 이름은 `sellpick-windows-amd64.zip`입니다. WebView2와 FFmpeg/ffprobe 등 미디어 도구의 준비 상태는 앱 설정에서 확인합니다.
